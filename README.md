@@ -19,4 +19,6 @@ iniciar as aulas.
 **1 - Pacotes:** Entendendo a funcionalidade dos pacotes, imports
 e a sintaxe. Entendendo o Go run e o Go build tambem.
 
-**2 - Variaveis:** Entendendo as Variaveis constantes e tipos de dados 
+**2 - Variaveis:** Entendendo as Variaveis constantes
+
+**3 - Tipos de dados:** Entendendo são criados os dados em Go
